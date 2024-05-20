@@ -2,6 +2,10 @@
 
 This repository contains my coursework for the Machine Learning Specialization by Andrew Ng on Coursera. It includes assignments, optional labs, slides, and my completion certificate.
 
+## Certificate
+
+![Certificate](Certificate/ML_Specialization_Certificate.png)
+
 ## Courses
 
 1. Supervised Machine Learning: Regression and Classification
