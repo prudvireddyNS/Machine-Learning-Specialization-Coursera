@@ -4,7 +4,7 @@ This repository contains my coursework for the Machine Learning Specialization b
 
 ## Certificate
 
-![Certificate](ML Specialization Certificate/ML_Specialization_Certificate.png)
+![Certificate](ML%20Specialization%20Certificate/ML_Specialization_Certificate.png)
 
 ## Courses
 
